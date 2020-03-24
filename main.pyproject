@@ -1,0 +1,3 @@
+{
+    "files": ["mainwindow.ui","nltk_gender.py","main.py","nltk_sentiment_analysis.py"]
+}
